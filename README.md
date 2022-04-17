@@ -1,4 +1,4 @@
-# Jarvis
+# Workout-Instructor
 #### (i ran out of names)
 AI-Assisted Bodyweight Workout Instructor
 
