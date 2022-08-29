@@ -49,7 +49,7 @@ const loadModel = function (modelName) {
   if (man) scene.remove(man);
   const loader = new THREE.FBXLoader();
   loader.load(
-    '/animations/' + modelName + '.fbx',
+    'src/animations/' + modelName + '.fbx',
     function (object) {
       object.traverse(function (child) {
         if (child.material) {
